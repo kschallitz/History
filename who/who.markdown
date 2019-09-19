@@ -94,7 +94,7 @@
 | `rapunzel` |  Caitlin Howell | Fall 1996 | Summer 1997 | :white_check_mark: |  |  |  |
 | `riccardo` | Riccardo Mutschlechner | Fall 2013 | Spring 2017 | :white_check_mark: | Visa, Riot Games | https://github.com/ricky54326 | Connoisseur of dank memes |
 | `sagamore` | Matt Beschta | Fall 1995 | Fall 1998 | :white_check_mark: | Systems Administrator, OSC Security Team, AT&T Wireless |  |  |
-| `schallit` | Kurt Schallitz  | ??? | ??? | :x: |  |  |  |
+| `schallit` | Kurt Schallitz  | ??? | ??? | :x: | Game Programmer, Raven Software, Shadow Caster, Hexen, Cyclones; Game Programmer Electronic Arts, Wing Commander III; Headspace, Co-Developer of Java Sound and beatnik player; Incyte Genomics, Interm director of IT; Quark Biotech, Director Software Development North America; Genentech, LIMS developer; CSols, informatics consultant  |  |  |
 | `sohail` | Alex Sohail | Fall 2012 | Spring 2015 | :white_check_mark: | Microsoft | https://github.com/elementrat |  |
 | `solo` | Abe Megahed | ??? | ??? | :white_check_mark: |  |  |  |
 | `sparkie` | Mark Horn  | ??? | ??? | :white_check_mark: | NASA Johnson Space Center |  |  |
